@@ -10,8 +10,6 @@ sites:
     url: https://pigeon.gacr.cz/owa/
   - name: Helpdesk GACR
     url: https://info.gacr.cz
-  - name: Posta bez owa
-    url: https://pigeon.gacr.cz/
   - name: Kailo
     url: https://kailo.io
   - name: Kailo | Speedtest
