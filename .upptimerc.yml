@@ -14,6 +14,8 @@ sites:
     url: https://pigeon.gacr.cz/owa/
   - name: Helpdesk GACR
     url: https://info.gacr.cz
+  - name: gris apex
+    url: https://www.gris.cz/apex/f?p=103
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Broken Site
