@@ -8,6 +8,8 @@ sites:
     url: https://gacr.cz/
   - name: GRIS
     url: https://cas.gris.cz/
+  - name: GRIS cas login
+    url: https://cas.gris.cz/cas/login/
   - name: Mail
     url: https://pigeon.gacr.cz/owa/
   - name: Helpdesk GACR
