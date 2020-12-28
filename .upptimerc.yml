@@ -12,6 +12,10 @@ sites:
     url: https://info.gacr.cz
   - name: Posta bez owa
     url: https://pigeon.gacr.cz/
+  - name: Kailo
+    url: https://kailo.io
+  - name: Kailo | Speedtest
+    url: https://speedtest.kailo.io
 
   # - name: Hacker News
   #   url: https://news.ycombinator.com
