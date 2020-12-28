@@ -6,8 +6,12 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: GACR
     url: https://gacr.cz
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: GRIS
+    url: https://gris.cz
+  - name: Mail
+    url: https:pigeon.gacr.cz
+  - name: Helpdesk GACR
+    url: https://info.gacr.cz
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Broken Site
