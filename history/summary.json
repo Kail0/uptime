@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1291,
-    "timeDay": 1291,
-    "timeWeek": 1291,
-    "timeMonth": 1291,
-    "timeYear": 1291,
+    "time": 1288,
+    "timeDay": 1288,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/gris.cz",
     "slug": "gris",
     "status": "down",
-    "uptime": "9.33%",
-    "uptimeDay": "9.33%",
-    "uptimeWeek": "9.33%",
-    "uptimeMonth": "9.33%",
-    "uptimeYear": "9.33%",
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 8
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
     "status": "down",
-    "uptime": "4.62%",
-    "uptimeDay": "4.62%",
-    "uptimeWeek": "4.62%",
-    "uptimeMonth": "4.62%",
-    "uptimeYear": "4.62%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 8
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1086,
-    "timeDay": 1086,
-    "timeWeek": 1086,
-    "timeMonth": 1086,
-    "timeYear": 1086,
+    "time": 1175,
+    "timeDay": 1175,
+    "timeWeek": 1175,
+    "timeMonth": 1175,
+    "timeYear": 1175,
     "dailyMinutesDown": {}
   }
 ]
