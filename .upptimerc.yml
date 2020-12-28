@@ -6,16 +6,18 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: GACR
     url: https://gacr.cz/
-  - name: GRIS
-    url: https://cas.gris.cz/
+  - name: GRIS POST
+    url: https://gris.cz
+    method: POST
   - name: GRIS cas login
     url: https://cas.gris.cz/cas/login/
   - name: Mail
     url: https://pigeon.gacr.cz/owa/
   - name: Helpdesk GACR
     url: https://info.gacr.cz
-  - name: gris apex
+  - name: gris apex POST
     url: https://www.gris.cz/apex/f?p=103
+    method: POST
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Broken Site
