@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 121
+      "2020-12-28": 122
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/cas.gris.cz",
     "slug": "gris-cas-login",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 104
+      "2020-12-28": 105
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://favicons.githubusercontent.com/www.gris.cz",
     "slug": "gris-apex",
     "status": "down",
-    "uptime": "12.53%",
-    "uptimeDay": "12.53%",
-    "uptimeWeek": "12.53%",
-    "uptimeMonth": "12.53%",
-    "uptimeYear": "12.53%",
+    "uptime": "5.30%",
+    "uptimeDay": "5.30%",
+    "uptimeWeek": "5.30%",
+    "uptimeMonth": "5.30%",
+    "uptimeYear": "5.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
