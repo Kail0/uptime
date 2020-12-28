@@ -4,8 +4,8 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: GACR
+    url: https://gacr.cz
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
