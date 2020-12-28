@@ -36,7 +36,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-  i18n:
+i18n:
   footer: Time is but a relative concept
 
 # Upptime also supports notifications, assigning issues, and more
