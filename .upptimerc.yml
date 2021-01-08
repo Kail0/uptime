@@ -14,6 +14,8 @@ sites:
     url: https://kailo.io
   - name: Kailo | Speedtest
     url: https://speedtest.kailo.io
+  - name: GRIS
+    url: https://gris.cz/
 
   # - name: Hacker News
   #   url: https://news.ycombinator.com
