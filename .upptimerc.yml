@@ -8,6 +8,8 @@ sites:
     url: https://gacr.cz/
   - name: Mail
     url: https://pigeon.gacr.cz/owa/
+  - name: Mail (bez owa)
+    url: https://pigeon.gacr.cz
   - name: Helpdesk GACR
     url: https://info.gacr.cz
   - name: Kailo
