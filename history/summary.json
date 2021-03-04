@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1172,
-    "timeDay": 1307,
-    "timeWeek": 1296,
-    "timeMonth": 1194,
+    "timeDay": 1159,
+    "timeWeek": 1260,
+    "timeMonth": 1193,
     "timeYear": 1172,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1335,
-    "timeDay": 1323,
-    "timeWeek": 1432,
-    "timeMonth": 1318,
+    "timeDay": 1343,
+    "timeWeek": 1379,
+    "timeMonth": 1317,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2021-02-14": 20
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1143,
-    "timeDay": 1205,
-    "timeWeek": 1286,
+    "time": 1144,
+    "timeDay": 1192,
+    "timeWeek": 1240,
     "timeMonth": 1167,
-    "timeYear": 1143,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2021-02-14": 19
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1030,
-    "timeDay": 1365,
-    "timeWeek": 1191,
-    "timeMonth": 1039,
+    "timeDay": 971,
+    "timeWeek": 1117,
+    "timeMonth": 1035,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2021-02-14": 21
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 490,
-    "timeWeek": 504,
-    "timeMonth": 466,
-    "timeYear": 467,
+    "time": 469,
+    "timeDay": 672,
+    "timeWeek": 524,
+    "timeMonth": 473,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 565,
-    "timeWeek": 512,
-    "timeMonth": 482,
-    "timeYear": 486,
+    "time": 488,
+    "timeDay": 588,
+    "timeWeek": 526,
+    "timeMonth": 484,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -130,7 +130,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 8,
+      "2021-03-04": 8,
+      "2021-03-03": 1440,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
@@ -204,7 +205,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 8,
+      "2021-03-04": 8,
+      "2021-03-03": 1440,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
