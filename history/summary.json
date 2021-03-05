@@ -4,10 +4,10 @@
     "url": "https://gacr.cz/",
     "icon": "https://favicons.githubusercontent.com/gacr.cz",
     "slug": "gacr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
@@ -15,7 +15,9 @@
     "timeWeek": 1250,
     "timeMonth": 1198,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 1
+    }
   },
   {
     "name": "Mail",
@@ -62,9 +64,9 @@
     "url": "https://info.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/info.gacr.cz",
     "slug": "helpdesk-gacr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -74,6 +76,7 @@
     "timeMonth": 1035,
     "timeYear": 1030,
     "dailyMinutesDown": {
+      "2021-03-05": 0,
       "2021-02-14": 21
     }
   },
@@ -130,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-05": 8,
+      "2021-03-05": 1283,
       "2021-03-04": 1440,
       "2021-03-03": 1440,
       "2021-03-02": 1440,
@@ -206,7 +209,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-05": 8,
+      "2021-03-05": 1283,
       "2021-03-04": 1440,
       "2021-03-03": 1440,
       "2021-03-02": 1440,
