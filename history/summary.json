@@ -22,26 +22,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "34.19%",
-    "uptimeWeek": "73.46%",
+    "status": "down",
+    "uptime": "95.54%",
+    "uptimeDay": "35.49%",
+    "uptimeWeek": "73.45%",
     "uptimeMonth": "93.89%",
-    "uptimeYear": "95.52%",
+    "uptimeYear": "95.54%",
     "time": 1292,
-    "timeDay": 1066,
+    "timeDay": 1074,
     "timeWeek": 1256,
-    "timeMonth": 1340,
+    "timeMonth": 1339,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2021-04-23": 631,
+      "2021-04-23": 632,
       "2021-04-22": 1001,
       "2021-04-21": 1046,
       "2021-03-18": 1098,
       "2021-03-17": 894,
       "2021-03-16": 1063,
       "2021-03-15": 782,
-      "2021-03-14": 981
+      "2021-03-14": 940
     }
   },
   {
@@ -49,16 +49,16 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "34.60%",
-    "uptimeWeek": "73.62%",
+    "status": "down",
+    "uptime": "94.83%",
+    "uptimeDay": "35.92%",
+    "uptimeWeek": "73.61%",
     "uptimeMonth": "93.93%",
-    "uptimeYear": "94.81%",
+    "uptimeYear": "94.83%",
     "time": 1124,
-    "timeDay": 972,
+    "timeDay": 980,
     "timeWeek": 1125,
-    "timeMonth": 1170,
+    "timeMonth": 1169,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2021-04-23": 629,
@@ -68,7 +68,7 @@
       "2021-03-17": 885,
       "2021-03-16": 1058,
       "2021-03-15": 774,
-      "2021-03-14": 989
+      "2021-03-14": 958
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 921,
+      "2021-04-23": 947,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
@@ -269,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 921,
+      "2021-04-23": 947,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
