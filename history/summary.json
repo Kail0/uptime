@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "94.63%",
-    "uptimeDay": "28.69%",
-    "uptimeWeek": "25.49%",
+    "status": "down",
+    "uptime": "94.70%",
+    "uptimeDay": "30.95%",
+    "uptimeWeek": "25.52%",
     "uptimeMonth": "82.01%",
-    "uptimeYear": "94.63%",
+    "uptimeYear": "94.70%",
     "time": 1289,
     "timeDay": 1322,
     "timeWeek": 1223,
     "timeMonth": 1316,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2021-04-28": 393,
+      "2021-04-28": 394,
       "2021-04-27": 1077,
       "2021-04-26": 1184,
       "2021-04-25": 1053,
@@ -43,7 +43,7 @@
       "2021-04-22": 1001,
       "2021-04-21": 1046,
       "2021-03-18": 1098,
-      "2021-03-17": 374
+      "2021-03-17": 247
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "93.82%",
-    "uptimeDay": "29.10%",
-    "uptimeWeek": "25.87%",
+    "status": "down",
+    "uptime": "93.90%",
+    "uptimeDay": "31.39%",
+    "uptimeWeek": "25.90%",
     "uptimeMonth": "82.10%",
-    "uptimeYear": "93.82%",
+    "uptimeYear": "93.90%",
     "time": 1124,
     "timeDay": 1202,
     "timeWeek": 1113,
@@ -72,7 +72,7 @@
       "2021-04-22": 992,
       "2021-04-21": 1041,
       "2021-03-18": 1092,
-      "2021-03-17": 369
+      "2021-03-17": 242
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 539,
+      "2021-04-28": 572,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 539,
+      "2021-04-28": 572,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
