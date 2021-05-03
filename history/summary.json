@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "93.82%",
-    "uptimeDay": "7.11%",
-    "uptimeWeek": "21.60%",
-    "uptimeMonth": "74.33%",
-    "uptimeYear": "93.82%",
+    "status": "down",
+    "uptime": "93.85%",
+    "uptimeDay": "8.69%",
+    "uptimeWeek": "21.83%",
+    "uptimeMonth": "74.47%",
+    "uptimeYear": "93.85%",
     "time": 1281,
     "timeDay": 1218,
     "timeWeek": 1206,
     "timeMonth": 1282,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2021-05-03": 1048,
+      "2021-05-03": 1049,
       "2021-05-02": 1222,
       "2021-05-01": 1189,
       "2021-04-30": 1002,
@@ -44,7 +44,7 @@
       "2021-04-26": 1184,
       "2021-04-25": 1053,
       "2021-04-24": 1072,
-      "2021-04-23": 273
+      "2021-04-23": 211
     }
   },
   {
@@ -52,16 +52,16 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "92.83%",
-    "uptimeDay": "7.28%",
-    "uptimeWeek": "22.22%",
-    "uptimeMonth": "74.08%",
-    "uptimeYear": "92.83%",
+    "status": "down",
+    "uptime": "92.85%",
+    "uptimeDay": "8.89%",
+    "uptimeWeek": "22.45%",
+    "uptimeMonth": "74.15%",
+    "uptimeYear": "92.85%",
     "time": 1120,
     "timeDay": 1150,
     "timeWeek": 1088,
-    "timeMonth": 1125,
+    "timeMonth": 1126,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2021-05-03": 1047,
@@ -74,7 +74,7 @@
       "2021-04-26": 1180,
       "2021-04-25": 1046,
       "2021-04-24": 1069,
-      "2021-04-23": 458
+      "2021-04-23": 426
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 1142,
+      "2021-05-03": 1166,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
@@ -285,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 1142,
+      "2021-05-03": 1166,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
