@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "93.60%",
-    "uptimeDay": "33.62%",
+    "status": "down",
+    "uptime": "93.61%",
+    "uptimeDay": "34.40%",
     "uptimeWeek": "21.20%",
-    "uptimeMonth": "72.86%",
-    "uptimeYear": "93.60%",
+    "uptimeMonth": "72.92%",
+    "uptimeYear": "93.61%",
     "time": 1280,
     "timeDay": 1135,
-    "timeWeek": 1220,
+    "timeWeek": 1223,
     "timeMonth": 1274,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2021-05-06": 476,
+      "2021-05-06": 477,
       "2021-05-05": 991,
       "2021-05-04": 1284,
       "2021-05-03": 1264,
@@ -45,7 +45,7 @@
       "2021-04-28": 1116,
       "2021-04-27": 1077,
       "2021-04-26": 1184,
-      "2021-04-25": 74
+      "2021-04-25": 45
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "92.67%",
-    "uptimeDay": "33.93%",
-    "uptimeWeek": "21.68%",
-    "uptimeMonth": "72.87%",
-    "uptimeYear": "92.67%",
+    "status": "down",
+    "uptime": "92.70%",
+    "uptimeDay": "34.74%",
+    "uptimeWeek": "21.67%",
+    "uptimeMonth": "72.96%",
+    "uptimeYear": "92.70%",
     "time": 1119,
     "timeDay": 997,
-    "timeWeek": 1093,
+    "timeWeek": 1096,
     "timeMonth": 1118,
     "timeYear": 1119,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
       "2021-04-28": 1112,
       "2021-04-27": 1072,
       "2021-04-26": 1180,
-      "2021-04-25": 145
+      "2021-04-25": 106
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 696,
+      "2021-05-06": 708,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 696,
+      "2021-05-06": 708,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
