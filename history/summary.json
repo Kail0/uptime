@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "20.76%",
-    "uptimeWeek": "22.41%",
-    "uptimeMonth": "72.21%",
-    "uptimeYear": "93.69%",
+    "status": "down",
+    "uptime": "93.73%",
+    "uptimeDay": "22.84%",
+    "uptimeWeek": "22.70%",
+    "uptimeMonth": "72.40%",
+    "uptimeYear": "93.73%",
     "time": 1279,
     "timeDay": 1360,
     "timeWeek": 1249,
     "timeMonth": 1261,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2021-05-11": 479,
+      "2021-05-11": 480,
       "2021-05-10": 1094,
       "2021-05-09": 1199,
       "2021-05-08": 1158,
@@ -45,7 +45,7 @@
       "2021-05-03": 1264,
       "2021-05-02": 1222,
       "2021-05-01": 1189,
-      "2021-04-30": 111
+      "2021-04-30": 27
     }
   },
   {
@@ -53,12 +53,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "92.78%",
-    "uptimeDay": "21.10%",
-    "uptimeWeek": "22.37%",
-    "uptimeMonth": "72.09%",
-    "uptimeYear": "92.78%",
+    "status": "down",
+    "uptime": "92.81%",
+    "uptimeDay": "23.20%",
+    "uptimeWeek": "22.66%",
+    "uptimeMonth": "72.23%",
+    "uptimeYear": "92.81%",
     "time": 1120,
     "timeDay": 1228,
     "timeWeek": 1120,
@@ -76,7 +76,7 @@
       "2021-05-03": 1263,
       "2021-05-02": 1219,
       "2021-05-01": 1182,
-      "2021-04-30": 174
+      "2021-04-30": 111
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-11": 598,
+      "2021-05-11": 629,
       "2021-05-10": 1440,
       "2021-05-09": 1440,
       "2021-05-08": 1440,
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-11": 598,
+      "2021-05-11": 629,
       "2021-05-10": 1440,
       "2021-05-09": 1440,
       "2021-05-08": 1440,
