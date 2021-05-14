@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "93.81%",
-    "uptimeDay": "21.98%",
-    "uptimeWeek": "22.27%",
-    "uptimeMonth": "72.23%",
-    "uptimeYear": "93.81%",
+    "status": "down",
+    "uptime": "93.85%",
+    "uptimeDay": "24.79%",
+    "uptimeWeek": "22.92%",
+    "uptimeMonth": "72.39%",
+    "uptimeYear": "93.85%",
     "time": 1273,
-    "timeDay": 1180,
+    "timeDay": 1085,
     "timeWeek": 1194,
     "timeMonth": 1239,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2021-05-14": 75,
+      "2021-05-14": 76,
       "2021-05-13": 1123,
       "2021-05-12": 1084,
       "2021-05-11": 1127,
@@ -45,7 +45,7 @@
       "2021-05-06": 1132,
       "2021-05-05": 991,
       "2021-05-04": 1284,
-      "2021-05-03": 845
+      "2021-05-03": 774
     }
   },
   {
@@ -53,14 +53,14 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "92.59%",
-    "uptimeDay": "22.29%",
-    "uptimeWeek": "22.20%",
-    "uptimeMonth": "70.73%",
-    "uptimeYear": "92.59%",
+    "status": "down",
+    "uptime": "92.98%",
+    "uptimeDay": "25.09%",
+    "uptimeWeek": "22.86%",
+    "uptimeMonth": "72.25%",
+    "uptimeYear": "92.98%",
     "time": 1116,
-    "timeDay": 1068,
+    "timeDay": 982,
     "timeWeek": 1076,
     "timeMonth": 1105,
     "timeYear": 1116,
@@ -76,8 +76,7 @@
       "2021-05-06": 1129,
       "2021-05-05": 987,
       "2021-05-04": 1280,
-      "2021-05-03": 1263,
-      "2021-05-02": 247
+      "2021-05-03": 844
     }
   },
   {
@@ -155,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-14": 76,
+      "2021-05-14": 193,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 1440,
@@ -301,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-14": 76,
+      "2021-05-14": 193,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 1440,
