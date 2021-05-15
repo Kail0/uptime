@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "22.96%",
-    "uptimeWeek": "23.29%",
-    "uptimeMonth": "73.18%",
-    "uptimeYear": "94.11%",
+    "status": "down",
+    "uptime": "94.17%",
+    "uptimeDay": "23.52%",
+    "uptimeWeek": "23.28%",
+    "uptimeMonth": "73.46%",
+    "uptimeYear": "94.17%",
     "time": 1272,
     "timeDay": 1251,
     "timeWeek": 1210,
     "timeMonth": 1233,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2021-05-15": 1033,
+      "2021-05-15": 1034,
       "2021-05-14": 979,
       "2021-05-13": 1123,
       "2021-05-12": 1084,
@@ -44,7 +44,7 @@
       "2021-05-08": 1158,
       "2021-05-07": 1049,
       "2021-05-06": 1132,
-      "2021-05-05": 765
+      "2021-05-05": 642
     }
   },
   {
@@ -52,12 +52,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "93.28%",
-    "uptimeDay": "23.28%",
+    "status": "down",
+    "uptime": "93.32%",
+    "uptimeDay": "23.86%",
     "uptimeWeek": "23.22%",
-    "uptimeMonth": "73.04%",
-    "uptimeYear": "93.28%",
+    "uptimeMonth": "73.21%",
+    "uptimeYear": "93.32%",
     "time": 1116,
     "timeDay": 1103,
     "timeWeek": 1085,
@@ -74,7 +74,7 @@
       "2021-05-08": 1155,
       "2021-05-07": 1044,
       "2021-05-06": 1129,
-      "2021-05-05": 835
+      "2021-05-05": 761
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-15": 1311,
+      "2021-05-15": 1320,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
@@ -299,7 +299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-15": 1311,
+      "2021-05-15": 1320,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
