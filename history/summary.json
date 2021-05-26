@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "93.96%",
-    "uptimeDay": "6.09%",
-    "uptimeWeek": "18.59%",
-    "uptimeMonth": "70.52%",
-    "uptimeYear": "93.96%",
+    "status": "down",
+    "uptime": "94.00%",
+    "uptimeDay": "12.78%",
+    "uptimeWeek": "19.54%",
+    "uptimeMonth": "70.70%",
+    "uptimeYear": "94.00%",
     "time": 1265,
     "timeDay": 975,
     "timeWeek": 1189,
     "timeMonth": 1210,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2021-05-26": 99,
+      "2021-05-26": 100,
       "2021-05-25": 1353,
       "2021-05-24": 1107,
       "2021-05-23": 1223,
@@ -46,7 +46,7 @@
       "2021-05-17": 1228,
       "2021-05-16": 1155,
       "2021-05-15": 1153,
-      "2021-05-14": 86
+      "2021-05-14": 5
     }
   },
   {
@@ -54,12 +54,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "93.24%",
-    "uptimeDay": "6.20%",
-    "uptimeWeek": "18.89%",
-    "uptimeMonth": "70.63%",
-    "uptimeYear": "93.24%",
+    "status": "down",
+    "uptime": "93.29%",
+    "uptimeDay": "12.92%",
+    "uptimeWeek": "19.85%",
+    "uptimeMonth": "70.82%",
+    "uptimeYear": "93.29%",
     "time": 1113,
     "timeDay": 957,
     "timeWeek": 1081,
@@ -78,7 +78,7 @@
       "2021-05-17": 1224,
       "2021-05-16": 1150,
       "2021-05-15": 1149,
-      "2021-05-14": 85
+      "2021-05-14": 4
     }
   },
   {
@@ -156,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-26": 99,
+      "2021-05-26": 196,
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-26": 99,
+      "2021-05-26": 196,
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
