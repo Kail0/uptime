@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
-    "timeDay": 1133,
-    "timeWeek": 1163,
+    "timeDay": 966,
+    "timeWeek": 1168,
     "timeMonth": 1161,
     "timeYear": 1169,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "91.24%",
-    "uptimeDay": "4.63%",
-    "uptimeWeek": "23.70%",
-    "uptimeMonth": "54.08%",
-    "uptimeYear": "91.24%",
+    "status": "down",
+    "uptime": "91.30%",
+    "uptimeDay": "4.65%",
+    "uptimeWeek": "23.85%",
+    "uptimeMonth": "54.37%",
+    "uptimeYear": "91.30%",
     "time": 1264,
     "timeDay": 1252,
     "timeWeek": 1186,
     "timeMonth": 1204,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2021-06-05": 1362,
+      "2021-06-05": 1363,
       "2021-06-04": 967,
       "2021-06-03": 1104,
       "2021-06-02": 1077,
@@ -51,7 +51,7 @@
       "2021-05-22": 1075,
       "2021-05-21": 1171,
       "2021-05-20": 1025,
-      "2021-05-19": 595
+      "2021-05-19": 469
     }
   },
   {
@@ -59,12 +59,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "90.26%",
-    "uptimeDay": "4.69%",
-    "uptimeWeek": "23.82%",
-    "uptimeMonth": "54.20%",
-    "uptimeYear": "90.26%",
+    "status": "down",
+    "uptime": "90.33%",
+    "uptimeDay": "4.72%",
+    "uptimeWeek": "23.97%",
+    "uptimeMonth": "54.48%",
+    "uptimeYear": "90.33%",
     "time": 1111,
     "timeDay": 1029,
     "timeWeek": 1040,
@@ -88,7 +88,7 @@
       "2021-05-22": 1070,
       "2021-05-21": 1164,
       "2021-05-20": 1018,
-      "2021-05-19": 590
+      "2021-05-19": 465
     }
   },
   {
@@ -103,8 +103,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 1059,
-    "timeDay": 1038,
-    "timeWeek": 1005,
+    "timeDay": 818,
+    "timeWeek": 1023,
     "timeMonth": 1094,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -125,8 +125,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 424,
-    "timeWeek": 424,
+    "timeDay": 298,
+    "timeWeek": 427,
     "timeMonth": 421,
     "timeYear": 457,
     "dailyMinutesDown": {}
@@ -143,8 +143,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 405,
-    "timeWeek": 430,
+    "timeDay": 272,
+    "timeWeek": 427,
     "timeMonth": 425,
     "timeYear": 461,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-05": 1414,
+      "2021-06-05": 1430,
       "2021-06-04": 1440,
       "2021-06-03": 1440,
       "2021-06-02": 1440,
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-05": 1414,
+      "2021-06-05": 1430,
       "2021-06-04": 1440,
       "2021-06-03": 1440,
       "2021-06-02": 1440,
