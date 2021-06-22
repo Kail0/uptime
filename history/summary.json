@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.21%",
-    "uptimeDay": "27.44%",
-    "uptimeWeek": "23.02%",
-    "uptimeMonth": "78.01%",
-    "uptimeYear": "96.21%",
+    "status": "down",
+    "uptime": "96.26%",
+    "uptimeDay": "28.02%",
+    "uptimeWeek": "23.03%",
+    "uptimeMonth": "78.32%",
+    "uptimeYear": "96.26%",
     "time": 1265,
     "timeDay": 1188,
     "timeWeek": 1275,
     "timeMonth": 1247,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2021-06-22": 870,
+      "2021-06-22": 871,
       "2021-06-21": 1154,
       "2021-06-20": 1182,
       "2021-06-19": 996,
@@ -42,7 +42,7 @@
       "2021-06-17": 1079,
       "2021-06-16": 1215,
       "2021-06-15": 1137,
-      "2021-06-14": 950
+      "2021-06-14": 816
     }
   },
   {
@@ -50,12 +50,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "95.84%",
-    "uptimeDay": "27.85%",
-    "uptimeWeek": "23.39%",
-    "uptimeMonth": "78.12%",
-    "uptimeYear": "95.84%",
+    "status": "down",
+    "uptime": "95.90%",
+    "uptimeDay": "28.47%",
+    "uptimeWeek": "23.40%",
+    "uptimeMonth": "78.43%",
+    "uptimeYear": "95.90%",
     "time": 1116,
     "timeDay": 1040,
     "timeWeek": 1131,
@@ -70,7 +70,7 @@
       "2021-06-17": 1075,
       "2021-06-16": 1213,
       "2021-06-15": 1133,
-      "2021-06-14": 945
+      "2021-06-14": 811
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-22": 1192,
+      "2021-06-22": 1201,
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-22": 1192,
+      "2021-06-22": 1201,
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
