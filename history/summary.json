@@ -13,7 +13,7 @@
     "time": 1179,
     "timeDay": 1300,
     "timeWeek": 1252,
-    "timeMonth": 1229,
+    "timeMonth": 1237,
     "timeYear": 1179,
     "dailyMinutesDown": {}
   },
@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.28%",
-    "uptimeDay": "24.41%",
-    "uptimeWeek": "24.17%",
-    "uptimeMonth": "78.17%",
-    "uptimeYear": "96.28%",
+    "status": "down",
+    "uptime": "96.34%",
+    "uptimeDay": "24.37%",
+    "uptimeWeek": "24.31%",
+    "uptimeMonth": "78.55%",
+    "uptimeYear": "96.34%",
     "time": 1265,
-    "timeDay": 1302,
+    "timeDay": 1295,
     "timeWeek": 1260,
     "timeMonth": 1257,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2021-06-24": 1065,
+      "2021-06-24": 1066,
       "2021-06-23": 1095,
       "2021-06-22": 1075,
       "2021-06-21": 1154,
@@ -42,7 +42,7 @@
       "2021-06-19": 996,
       "2021-06-18": 1048,
       "2021-06-17": 1079,
-      "2021-06-16": 866
+      "2021-06-16": 700
     }
   },
   {
@@ -50,12 +50,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "95.92%",
-    "uptimeDay": "24.82%",
-    "uptimeWeek": "24.56%",
-    "uptimeMonth": "78.28%",
-    "uptimeYear": "95.92%",
+    "status": "down",
+    "uptime": "96.00%",
+    "uptimeDay": "24.80%",
+    "uptimeWeek": "24.71%",
+    "uptimeMonth": "78.66%",
+    "uptimeYear": "96.00%",
     "time": 1117,
     "timeDay": 1152,
     "timeWeek": 1117,
@@ -70,7 +70,7 @@
       "2021-06-19": 989,
       "2021-06-18": 1045,
       "2021-06-17": 1075,
-      "2021-06-16": 864
+      "2021-06-16": 698
     }
   },
   {
@@ -87,7 +87,7 @@
     "time": 1067,
     "timeDay": 1277,
     "timeWeek": 1112,
-    "timeMonth": 1094,
+    "timeMonth": 1103,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2021-05-14": 76,
@@ -109,7 +109,7 @@
     "time": 462,
     "timeDay": 496,
     "timeWeek": 468,
-    "timeMonth": 476,
+    "timeMonth": 482,
     "timeYear": 462,
     "dailyMinutesDown": {}
   },
@@ -127,7 +127,7 @@
     "time": 465,
     "timeDay": 544,
     "timeWeek": 500,
-    "timeMonth": 472,
+    "timeMonth": 478,
     "timeYear": 465,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-24": 1403,
+      "2021-06-24": 1418,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
@@ -335,7 +335,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-24": 1403,
+      "2021-06-24": 1418,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
