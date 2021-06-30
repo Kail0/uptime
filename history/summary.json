@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "28.89%",
-    "uptimeWeek": "23.77%",
-    "uptimeMonth": "80.23%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "30.73%",
+    "uptimeWeek": "23.89%",
+    "uptimeMonth": "80.42%",
+    "uptimeYear": "96.76%",
     "time": 1263,
     "timeDay": 1273,
-    "timeWeek": 1241,
+    "timeWeek": 1243,
     "timeMonth": 1253,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2021-06-30": 406,
+      "2021-06-30": 407,
       "2021-06-29": 1123,
       "2021-06-28": 1131,
       "2021-06-27": 1032,
@@ -42,7 +42,7 @@
       "2021-06-25": 1166,
       "2021-06-24": 1088,
       "2021-06-23": 1095,
-      "2021-06-22": 433
+      "2021-06-22": 351
     }
   },
   {
@@ -50,15 +50,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.42%",
-    "uptimeDay": "29.46%",
-    "uptimeWeek": "24.36%",
-    "uptimeMonth": "80.28%",
-    "uptimeYear": "96.42%",
+    "status": "down",
+    "uptime": "96.44%",
+    "uptimeDay": "31.30%",
+    "uptimeWeek": "24.48%",
+    "uptimeMonth": "80.38%",
+    "uptimeYear": "96.44%",
     "time": 1117,
     "timeDay": 1158,
-    "timeWeek": 1122,
+    "timeWeek": 1118,
     "timeMonth": 1126,
     "timeYear": 1117,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2021-06-25": 1145,
       "2021-06-24": 1084,
       "2021-06-23": 1090,
-      "2021-06-22": 473
+      "2021-06-22": 429
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 599,
+      "2021-06-30": 627,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 599,
+      "2021-06-30": 627,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
