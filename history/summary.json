@@ -22,19 +22,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "23.67%",
-    "uptimeWeek": "22.83%",
-    "uptimeMonth": "79.69%",
-    "uptimeYear": "96.65%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "26.37%",
+    "uptimeWeek": "23.10%",
+    "uptimeMonth": "79.86%",
+    "uptimeYear": "96.68%",
     "time": 1263,
     "timeDay": 1305,
-    "timeWeek": 1247,
+    "timeWeek": 1250,
     "timeMonth": 1253,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2021-06-30": 925,
+      "2021-06-30": 926,
       "2021-06-29": 1123,
       "2021-06-28": 1131,
       "2021-06-27": 1032,
@@ -42,7 +42,7 @@
       "2021-06-25": 1166,
       "2021-06-24": 1088,
       "2021-06-23": 1095,
-      "2021-06-22": 149
+      "2021-06-22": 76
     }
   },
   {
@@ -50,15 +50,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.33%",
-    "uptimeDay": "24.16%",
-    "uptimeWeek": "23.41%",
-    "uptimeMonth": "79.71%",
-    "uptimeYear": "96.33%",
+    "status": "down",
+    "uptime": "96.35%",
+    "uptimeDay": "26.88%",
+    "uptimeWeek": "23.68%",
+    "uptimeMonth": "79.84%",
+    "uptimeYear": "96.35%",
     "time": 1116,
     "timeDay": 1173,
-    "timeWeek": 1122,
+    "timeWeek": 1125,
     "timeMonth": 1126,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2021-06-25": 1145,
       "2021-06-24": 1084,
       "2021-06-23": 1090,
-      "2021-06-22": 203
+      "2021-06-22": 148
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 1215,
+      "2021-06-30": 1254,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 1215,
+      "2021-06-30": 1254,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
