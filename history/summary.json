@@ -22,26 +22,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "15.82%",
-    "uptimeWeek": "22.78%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "96.81%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "17.14%",
+    "uptimeWeek": "22.97%",
+    "uptimeMonth": "80.54%",
+    "uptimeYear": "96.82%",
     "time": 1263,
     "timeDay": 1310,
     "timeWeek": 1254,
     "timeMonth": 1260,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2021-07-02": 1109,
+      "2021-07-02": 1110,
       "2021-07-01": 1032,
       "2021-06-30": 1062,
       "2021-06-29": 1123,
       "2021-06-28": 1131,
       "2021-06-27": 1032,
       "2021-06-26": 1188,
-      "2021-06-25": 880
+      "2021-06-25": 850
     }
   },
   {
@@ -49,12 +49,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "16.24%",
-    "uptimeWeek": "23.23%",
-    "uptimeMonth": "80.49%",
-    "uptimeYear": "96.51%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "17.58%",
+    "uptimeWeek": "23.42%",
+    "uptimeMonth": "80.61%",
+    "uptimeYear": "96.53%",
     "time": 1117,
     "timeDay": 1173,
     "timeWeek": 1127,
@@ -68,7 +68,7 @@
       "2021-06-28": 1125,
       "2021-06-27": 1023,
       "2021-06-26": 1180,
-      "2021-06-25": 914
+      "2021-06-25": 860
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 1326,
+      "2021-07-02": 1346,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 1326,
+      "2021-07-02": 1346,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1440,
