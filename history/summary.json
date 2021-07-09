@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.76%",
-    "uptimeDay": "21.00%",
-    "uptimeWeek": "25.42%",
-    "uptimeMonth": "79.44%",
-    "uptimeYear": "96.76%",
+    "status": "down",
+    "uptime": "96.81%",
+    "uptimeDay": "20.95%",
+    "uptimeWeek": "25.53%",
+    "uptimeMonth": "79.76%",
+    "uptimeYear": "96.81%",
     "time": 1266,
     "timeDay": 1336,
     "timeWeek": 1309,
     "timeMonth": 1270,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2021-07-09": 641,
+      "2021-07-09": 642,
       "2021-07-08": 1115,
       "2021-07-07": 1038,
       "2021-07-06": 944,
@@ -44,7 +44,7 @@
       "2021-07-04": 1025,
       "2021-07-03": 1233,
       "2021-07-02": 1197,
-      "2021-07-01": 739
+      "2021-07-01": 600
     }
   },
   {
@@ -52,12 +52,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "21.45%",
-    "uptimeWeek": "25.83%",
-    "uptimeMonth": "79.55%",
-    "uptimeYear": "96.48%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "21.42%",
+    "uptimeWeek": "25.95%",
+    "uptimeMonth": "79.87%",
+    "uptimeYear": "96.53%",
     "time": 1122,
     "timeDay": 1187,
     "timeWeek": 1194,
@@ -72,7 +72,7 @@
       "2021-07-04": 1019,
       "2021-07-03": 1227,
       "2021-07-02": 1189,
-      "2021-07-01": 737
+      "2021-07-01": 598
     }
   },
   {
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-09": 812,
+      "2021-07-09": 824,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-09": 812,
+      "2021-07-09": 824,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
