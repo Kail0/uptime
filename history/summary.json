@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "22.51%",
-    "uptimeWeek": "24.98%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "22.50%",
+    "uptimeWeek": "25.10%",
+    "uptimeMonth": "79.35%",
+    "uptimeYear": "96.76%",
     "time": 1267,
-    "timeDay": 1434,
+    "timeDay": 1436,
     "timeWeek": 1326,
     "timeMonth": 1273,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2021-07-10": 121,
+      "2021-07-10": 122,
       "2021-07-09": 1156,
       "2021-07-08": 1115,
       "2021-07-07": 1038,
@@ -45,7 +45,7 @@
       "2021-07-04": 1025,
       "2021-07-03": 1233,
       "2021-07-02": 1197,
-      "2021-07-01": 206
+      "2021-07-01": 143
     }
   },
   {
@@ -53,14 +53,14 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "22.99%",
-    "uptimeWeek": "25.38%",
-    "uptimeMonth": "79.32%",
-    "uptimeYear": "96.45%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "23.00%",
+    "uptimeWeek": "25.50%",
+    "uptimeMonth": "79.46%",
+    "uptimeYear": "96.48%",
     "time": 1123,
-    "timeDay": 1297,
+    "timeDay": 1291,
     "timeWeek": 1213,
     "timeMonth": 1147,
     "timeYear": 1123,
@@ -74,7 +74,7 @@
       "2021-07-04": 1019,
       "2021-07-03": 1227,
       "2021-07-02": 1189,
-      "2021-07-01": 206
+      "2021-07-01": 143
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-10": 161,
+      "2021-07-10": 173,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-10": 161,
+      "2021-07-10": 173,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
