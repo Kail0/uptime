@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "20.27%",
-    "uptimeWeek": "23.61%",
-    "uptimeMonth": "79.44%",
-    "uptimeYear": "96.90%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "21.15%",
+    "uptimeWeek": "23.85%",
+    "uptimeMonth": "80.15%",
+    "uptimeYear": "97.01%",
     "time": 1275,
-    "timeDay": 1325,
-    "timeWeek": 1374,
+    "timeDay": 1308,
+    "timeWeek": 1379,
     "timeMonth": 1302,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2021-07-18": 633,
+      "2021-07-18": 634,
       "2021-07-17": 1141,
       "2021-07-16": 1161,
       "2021-07-15": 993,
@@ -44,7 +44,7 @@
       "2021-07-13": 1033,
       "2021-07-12": 1215,
       "2021-07-11": 1208,
-      "2021-07-10": 657
+      "2021-07-10": 344
     }
   },
   {
@@ -52,15 +52,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.62%",
-    "uptimeDay": "20.64%",
-    "uptimeWeek": "24.34%",
-    "uptimeMonth": "79.39%",
-    "uptimeYear": "96.62%",
+    "status": "down",
+    "uptime": "96.65%",
+    "uptimeDay": "21.52%",
+    "uptimeWeek": "24.57%",
+    "uptimeMonth": "79.57%",
+    "uptimeYear": "96.65%",
     "time": 1131,
-    "timeDay": 1207,
-    "timeWeek": 1227,
+    "timeDay": 1192,
+    "timeWeek": 1230,
     "timeMonth": 1171,
     "timeYear": 1131,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2021-07-13": 1013,
       "2021-07-12": 1212,
       "2021-07-11": 1203,
-      "2021-07-10": 752
+      "2021-07-10": 674
     }
   },
   {
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 782,
+      "2021-07-18": 818,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 782,
+      "2021-07-18": 818,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
