@@ -24,26 +24,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "23.91%",
-    "uptimeWeek": "24.42%",
-    "uptimeMonth": "80.63%",
-    "uptimeYear": "97.09%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "23.87%",
+    "uptimeWeek": "24.53%",
+    "uptimeMonth": "81.08%",
+    "uptimeYear": "97.16%",
     "time": 1276,
     "timeDay": 1344,
     "timeWeek": 1375,
     "timeMonth": 1303,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2021-07-18": 1095,
+      "2021-07-18": 1096,
       "2021-07-17": 1141,
       "2021-07-16": 1161,
       "2021-07-15": 993,
       "2021-07-14": 964,
       "2021-07-13": 1033,
       "2021-07-12": 1215,
-      "2021-07-11": 879
+      "2021-07-11": 681
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "24.31%",
-    "uptimeWeek": "25.16%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "96.84%",
+    "status": "down",
+    "uptime": "96.85%",
+    "uptimeDay": "24.30%",
+    "uptimeWeek": "25.28%",
+    "uptimeMonth": "80.71%",
+    "uptimeYear": "96.85%",
     "time": 1132,
     "timeDay": 1244,
     "timeWeek": 1232,
@@ -70,7 +70,7 @@
       "2021-07-14": 942,
       "2021-07-13": 1013,
       "2021-07-12": 1212,
-      "2021-07-11": 935
+      "2021-07-11": 919
     }
   },
   {
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 1426,
+      "2021-07-18": 1438,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -364,7 +364,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 1426,
+      "2021-07-18": 1438,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
