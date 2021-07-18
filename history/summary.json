@@ -24,26 +24,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "25.48%",
-    "uptimeWeek": "24.46%",
-    "uptimeMonth": "80.86%",
-    "uptimeYear": "97.12%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "26.27%",
+    "uptimeWeek": "24.57%",
+    "uptimeMonth": "81.04%",
+    "uptimeYear": "97.15%",
     "time": 1276,
     "timeDay": 1316,
     "timeWeek": 1373,
     "timeMonth": 1302,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2021-07-18": 856,
+      "2021-07-18": 857,
       "2021-07-17": 1141,
       "2021-07-16": 1161,
       "2021-07-15": 993,
       "2021-07-14": 964,
       "2021-07-13": 1033,
       "2021-07-12": 1215,
-      "2021-07-11": 1018
+      "2021-07-11": 940
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "25.89%",
-    "uptimeWeek": "25.19%",
-    "uptimeMonth": "80.50%",
-    "uptimeYear": "96.81%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "26.70%",
+    "uptimeWeek": "25.31%",
+    "uptimeMonth": "80.57%",
+    "uptimeYear": "96.82%",
     "time": 1132,
     "timeDay": 1203,
     "timeWeek": 1228,
@@ -71,7 +71,7 @@
       "2021-07-13": 1013,
       "2021-07-12": 1212,
       "2021-07-11": 1203,
-      "2021-07-10": 49
+      "2021-07-10": 17
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 1151,
+      "2021-07-18": 1163,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 1151,
+      "2021-07-18": 1163,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
