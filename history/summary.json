@@ -24,26 +24,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "23.65%",
-    "uptimeWeek": "23.18%",
-    "uptimeMonth": "81.29%",
-    "uptimeYear": "97.23%",
+    "status": "down",
+    "uptime": "97.25%",
+    "uptimeDay": "25.59%",
+    "uptimeWeek": "23.46%",
+    "uptimeMonth": "81.45%",
+    "uptimeYear": "97.25%",
     "time": 1278,
     "timeDay": 1435,
     "timeWeek": 1386,
     "timeMonth": 1315,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2021-07-21": 759,
+      "2021-07-21": 760,
       "2021-07-20": 1127,
       "2021-07-19": 1193,
       "2021-07-18": 1098,
       "2021-07-17": 1141,
       "2021-07-16": 1161,
       "2021-07-15": 993,
-      "2021-07-14": 724
+      "2021-07-14": 653
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "24.13%",
-    "uptimeWeek": "23.77%",
-    "uptimeMonth": "81.25%",
-    "uptimeYear": "96.98%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "26.09%",
+    "uptimeWeek": "24.06%",
+    "uptimeMonth": "81.43%",
+    "uptimeYear": "97.01%",
     "time": 1136,
     "timeDay": 1294,
     "timeWeek": 1258,
@@ -70,7 +70,7 @@
       "2021-07-17": 1134,
       "2021-07-16": 1152,
       "2021-07-15": 988,
-      "2021-07-14": 784
+      "2021-07-14": 703
     }
   },
   {
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-21": 1027,
+      "2021-07-21": 1056,
       "2021-07-20": 1440,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-21": 1027,
+      "2021-07-21": 1056,
       "2021-07-20": 1440,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
