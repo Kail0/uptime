@@ -24,26 +24,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "28.67%",
-    "uptimeWeek": "23.68%",
-    "uptimeMonth": "81.24%",
-    "uptimeYear": "97.25%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "29.43%",
+    "uptimeWeek": "23.79%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "97.34%",
     "time": 1278,
     "timeDay": 1247,
     "timeWeek": 1340,
     "timeMonth": 1318,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2021-07-23": 879,
+      "2021-07-23": 880,
       "2021-07-22": 1054,
       "2021-07-21": 1004,
       "2021-07-20": 1127,
       "2021-07-19": 1193,
       "2021-07-18": 1098,
       "2021-07-17": 1141,
-      "2021-07-16": 725
+      "2021-07-16": 455
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "30.21%",
-    "uptimeWeek": "24.28%",
-    "uptimeMonth": "81.30%",
-    "uptimeYear": "97.02%",
+    "status": "down",
+    "uptime": "97.03%",
+    "uptimeDay": "30.99%",
+    "uptimeWeek": "24.39%",
+    "uptimeMonth": "81.38%",
+    "uptimeYear": "97.03%",
     "time": 1136,
     "timeDay": 1137,
     "timeWeek": 1229,
@@ -70,7 +70,7 @@
       "2021-07-19": 1187,
       "2021-07-18": 1094,
       "2021-07-17": 1134,
-      "2021-07-16": 753
+      "2021-07-16": 718
     }
   },
   {
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-23": 1168,
+      "2021-07-23": 1180,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
@@ -369,7 +369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-23": 1168,
+      "2021-07-23": 1180,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
