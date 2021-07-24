@@ -24,26 +24,26 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "97.36%",
-    "uptimeDay": "28.58%",
-    "uptimeWeek": "24.53%",
-    "uptimeMonth": "81.91%",
+    "uptimeDay": "28.77%",
+    "uptimeWeek": "24.64%",
+    "uptimeMonth": "81.96%",
     "uptimeYear": "97.36%",
     "time": 1281,
-    "timeDay": 1445,
+    "timeDay": 1469,
     "timeWeek": 1362,
     "timeMonth": 1328,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2021-07-24": 608,
+      "2021-07-24": 609,
       "2021-07-23": 1035,
       "2021-07-22": 1054,
       "2021-07-21": 1004,
       "2021-07-20": 1127,
       "2021-07-19": 1193,
       "2021-07-18": 1098,
-      "2021-07-17": 807
+      "2021-07-17": 787
     }
   },
   {
@@ -51,14 +51,14 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "29.09%",
-    "uptimeWeek": "25.13%",
-    "uptimeMonth": "81.84%",
-    "uptimeYear": "97.12%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "29.30%",
+    "uptimeWeek": "25.24%",
+    "uptimeMonth": "82.06%",
+    "uptimeYear": "97.15%",
     "time": 1139,
-    "timeDay": 1331,
+    "timeDay": 1354,
     "timeWeek": 1252,
     "timeMonth": 1203,
     "timeYear": 1139,
@@ -70,7 +70,7 @@
       "2021-07-20": 1120,
       "2021-07-19": 1187,
       "2021-07-18": 1094,
-      "2021-07-17": 897
+      "2021-07-17": 801
     }
   },
   {
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-24": 830,
+      "2021-07-24": 841,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-24": 830,
+      "2021-07-24": 841,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
