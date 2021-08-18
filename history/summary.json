@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.28%",
-    "uptimeDay": "18.43%",
-    "uptimeWeek": "22.18%",
-    "uptimeMonth": "79.23%",
-    "uptimeYear": "97.28%",
+    "status": "down",
+    "uptime": "97.30%",
+    "uptimeDay": "19.98%",
+    "uptimeWeek": "22.48%",
+    "uptimeMonth": "79.34%",
+    "uptimeYear": "97.30%",
     "time": 1294,
     "timeDay": 1421,
     "timeWeek": 1403,
     "timeMonth": 1363,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2021-08-18": 120,
+      "2021-08-18": 121,
       "2021-08-17": 1142,
       "2021-08-16": 1237,
       "2021-08-15": 1139,
@@ -45,7 +45,7 @@
       "2021-08-12": 979,
       "2021-08-11": 1055,
       "2021-08-10": 1077,
-      "2021-08-09": 55
+      "2021-08-09": 7
     }
   },
   {
@@ -53,12 +53,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "18.77%",
-    "uptimeWeek": "22.59%",
-    "uptimeMonth": "79.34%",
-    "uptimeYear": "97.09%",
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "20.31%",
+    "uptimeWeek": "22.90%",
+    "uptimeMonth": "79.45%",
+    "uptimeYear": "97.11%",
     "time": 1156,
     "timeDay": 1303,
     "timeWeek": 1261,
@@ -74,7 +74,7 @@
       "2021-08-12": 969,
       "2021-08-11": 1048,
       "2021-08-10": 1071,
-      "2021-08-09": 55
+      "2021-08-09": 7
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 121,
+      "2021-08-18": 152,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -399,7 +399,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 121,
+      "2021-08-18": 153,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
