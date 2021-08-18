@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "19.99%",
-    "uptimeWeek": "22.42%",
-    "uptimeMonth": "79.28%",
-    "uptimeYear": "97.29%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "21.72%",
+    "uptimeWeek": "22.61%",
+    "uptimeMonth": "79.53%",
+    "uptimeYear": "97.32%",
     "time": 1295,
     "timeDay": 1440,
     "timeWeek": 1403,
-    "timeMonth": 1363,
+    "timeMonth": 1362,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2021-08-18": 146,
+      "2021-08-18": 147,
       "2021-08-17": 1142,
       "2021-08-16": 1237,
       "2021-08-15": 1139,
@@ -44,8 +44,7 @@
       "2021-08-13": 1167,
       "2021-08-12": 979,
       "2021-08-11": 1055,
-      "2021-08-10": 1077,
-      "2021-08-09": 7
+      "2021-08-10": 974
     }
   },
   {
@@ -53,12 +52,12 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "20.34%",
-    "uptimeWeek": "22.84%",
-    "uptimeMonth": "79.39%",
-    "uptimeYear": "97.10%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "22.09%",
+    "uptimeWeek": "23.03%",
+    "uptimeMonth": "79.64%",
+    "uptimeYear": "97.14%",
     "time": 1156,
     "timeDay": 1315,
     "timeWeek": 1261,
@@ -73,8 +72,7 @@
       "2021-08-13": 1164,
       "2021-08-12": 969,
       "2021-08-11": 1048,
-      "2021-08-10": 1071,
-      "2021-08-09": 7
+      "2021-08-10": 968
     }
   },
   {
@@ -157,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 178,
+      "2021-08-18": 203,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -399,7 +397,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 178,
+      "2021-08-18": 203,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
