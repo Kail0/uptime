@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "97.23%",
-    "uptimeDay": "21.35%",
-    "uptimeWeek": "21.37%",
-    "uptimeMonth": "78.72%",
+    "uptimeDay": "22.09%",
+    "uptimeWeek": "21.36%",
+    "uptimeMonth": "78.77%",
     "uptimeYear": "97.23%",
     "time": 1296,
     "timeDay": 1435,
-    "timeWeek": 1413,
+    "timeWeek": 1411,
     "timeMonth": 1369,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2021-08-18": 1051,
+      "2021-08-18": 1052,
       "2021-08-17": 1142,
       "2021-08-16": 1237,
       "2021-08-15": 1139,
@@ -44,7 +44,7 @@
       "2021-08-13": 1167,
       "2021-08-12": 979,
       "2021-08-11": 1055,
-      "2021-08-10": 425
+      "2021-08-10": 401
     }
   },
   {
@@ -52,15 +52,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "21.79%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "22.54%",
     "uptimeWeek": "21.78%",
-    "uptimeMonth": "78.83%",
-    "uptimeYear": "97.03%",
+    "uptimeMonth": "78.88%",
+    "uptimeYear": "97.04%",
     "time": 1157,
     "timeDay": 1237,
-    "timeWeek": 1268,
+    "timeWeek": 1266,
     "timeMonth": 1246,
     "timeYear": 1157,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2021-08-13": 1164,
       "2021-08-12": 969,
       "2021-08-11": 1048,
-      "2021-08-10": 423
+      "2021-08-10": 400
     }
   },
   {
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 1284,
+      "2021-08-18": 1299,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -397,7 +397,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-18": 1285,
+      "2021-08-18": 1299,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
