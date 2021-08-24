@@ -24,19 +24,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "13.11%",
-    "uptimeWeek": "23.30%",
-    "uptimeMonth": "77.57%",
-    "uptimeYear": "97.14%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "15.16%",
+    "uptimeWeek": "23.61%",
+    "uptimeMonth": "77.66%",
+    "uptimeYear": "97.16%",
     "time": 1301,
-    "timeDay": 1641,
+    "timeDay": 1496,
     "timeWeek": 1443,
     "timeMonth": 1383,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2021-08-24": 604,
+      "2021-08-24": 605,
       "2021-08-23": 1079,
       "2021-08-22": 1254,
       "2021-08-21": 1116,
@@ -45,7 +45,7 @@
       "2021-08-18": 1104,
       "2021-08-17": 1142,
       "2021-08-16": 1237,
-      "2021-08-15": 296
+      "2021-08-15": 255
     }
   },
   {
@@ -53,14 +53,14 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "96.95%",
-    "uptimeDay": "13.44%",
-    "uptimeWeek": "23.70%",
-    "uptimeMonth": "77.68%",
-    "uptimeYear": "96.95%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "15.49%",
+    "uptimeWeek": "24.01%",
+    "uptimeMonth": "77.77%",
+    "uptimeYear": "96.96%",
     "time": 1161,
-    "timeDay": 1341,
+    "timeDay": 1325,
     "timeWeek": 1257,
     "timeMonth": 1245,
     "timeYear": 1161,
@@ -74,7 +74,7 @@
       "2021-08-18": 1096,
       "2021-08-17": 1135,
       "2021-08-16": 1233,
-      "2021-08-15": 295
+      "2021-08-15": 255
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-24": 658,
+      "2021-08-24": 690,
       "2021-08-23": 1440,
       "2021-08-22": 1440,
       "2021-08-21": 1440,
@@ -405,7 +405,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-24": 658,
+      "2021-08-24": 690,
       "2021-08-23": 1440,
       "2021-08-22": 1440,
       "2021-08-21": 1440,
