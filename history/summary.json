@@ -25,19 +25,19 @@
     "url": "https://pigeon.gacr.cz/owa/",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail",
-    "status": "up",
-    "uptime": "97.52%",
-    "uptimeDay": "33.73%",
-    "uptimeWeek": "24.35%",
-    "uptimeMonth": "80.30%",
-    "uptimeYear": "97.52%",
+    "status": "down",
+    "uptime": "97.57%",
+    "uptimeDay": "34.92%",
+    "uptimeWeek": "24.64%",
+    "uptimeMonth": "80.66%",
+    "uptimeYear": "97.57%",
     "time": 1302,
     "timeDay": 1319,
-    "timeWeek": 1372,
+    "timeWeek": 1369,
     "timeMonth": 1376,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2021-08-27": 422,
+      "2021-08-27": 423,
       "2021-08-26": 835,
       "2021-08-25": 941,
       "2021-08-24": 1248,
@@ -45,7 +45,7 @@
       "2021-08-22": 1254,
       "2021-08-21": 1116,
       "2021-08-20": 1036,
-      "2021-08-19": 699
+      "2021-08-19": 541
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "https://pigeon.gacr.cz",
     "icon": "https://favicons.githubusercontent.com/pigeon.gacr.cz",
     "slug": "mail-bez-owa",
-    "status": "up",
-    "uptime": "97.36%",
-    "uptimeDay": "34.20%",
-    "uptimeWeek": "24.75%",
-    "uptimeMonth": "80.41%",
-    "uptimeYear": "97.36%",
+    "status": "down",
+    "uptime": "97.41%",
+    "uptimeDay": "35.39%",
+    "uptimeWeek": "25.05%",
+    "uptimeMonth": "80.77%",
+    "uptimeYear": "97.41%",
     "time": 1161,
     "timeDay": 1199,
-    "timeWeek": 1211,
+    "timeWeek": 1208,
     "timeMonth": 1239,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2021-08-22": 1250,
       "2021-08-21": 1112,
       "2021-08-20": 1029,
-      "2021-08-19": 693
+      "2021-08-19": 535
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-27": 535,
+      "2021-08-27": 573,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
@@ -408,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-27": 535,
+      "2021-08-27": 573,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
